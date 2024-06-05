@@ -1,0 +1,12 @@
+API Key:- 0c4e33fad8fd4ca798dd946bfff84e8f
+
+
+<Route exact path='/business' element={<News pageSize={8} country="in" category="business"/>}/>
+<Route exact path='/entertainment' element={<News pageSize={8} country="in" category="entertainment"/>}/>
+<Route exact path='/general' element={<News pageSize={8} country="in" category="general"/>}/>
+<Route exact path='/health' element={<News pageSize={8} country="in" category="health"/>}/>
+<Route exact path='/science' element={<News pageSize={8} country="in" category="science"/>}/>
+<Route exact path='/sports' element={<News pageSize={8} country="in" category="sports"/>}/>
+<Route exact path='/technology' element={<News pageSize={8} country="in" category="technology"/>}/>
+
+
